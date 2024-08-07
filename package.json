@@ -1,0 +1,14 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "This is my smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "coverage": "npx hardhat coverage",
+    "deploy": "node ./scripts/deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
